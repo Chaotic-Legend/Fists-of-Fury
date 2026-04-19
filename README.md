@@ -112,9 +112,9 @@ This task is a realistic and representative assignment for a junior-level develo
 - Run the main scene, press the X key to jump upward, then press the C key while airborne to execute a jump-kick attack.
 - The task prompt requires a distinct midair attack animation when the attack input is triggered while the player character is jumping.
 
-11. Enemies approach the player character to attack and inflict damage.
-- Run the main scene and observe the enemies to confirm they actively approach the player character to deal damage.
-- The task prompt requires enemy behavior that targets the player character and engages in damaging attacks.
+11. Enemies approach the player character to position themselves nearby.
+- Run the main scene and observe the enemies to confirm they actively approach and align themselves next to the player character.
+- The task prompt requires enemy behavior that targets the player character and moves into proximity to position itself for interaction.
 
 12. The player character can attack enemies to hurt and knock them back.
 - Run the main scene, attack an enemy, and observe that the enemy takes damage, shows a hurt response, and gets knocked down.
