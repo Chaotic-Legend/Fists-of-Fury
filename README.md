@@ -20,7 +20,7 @@ First, enter the **task prompt** and any relevant reference files (e.g., docs, d
 
 Tasks should sound like what a manager might give a skilled but junior employee: high-level guidance with some leeway on executional details, but with very clear success metrics. What a good outcome looks like must be very clear and easy to understand.
 
-Include any relevant **reference files** (docs, diagrams, sketches, photos, schematics, etc.) needed for someone to do this task.
+Include any relevant **reference files** (docs, diagrams, sketches, photos, schematics, etc) needed for someone to complete this task.
 
 Reminder on the difference between reference and starting state files:
 - **Reference files**: anything the Employee should look at or read while completing the project that does not need to be directly loaded into the application (*'please make something that looks like XYZ image'*)
@@ -44,7 +44,7 @@ Vertical motion should behave consistently, with gravity producing a natural dow
 <br>
 Task from scratch
 
-<ins> How long would you anticipate this task taking an 'Employee' to complete? (in hours) </ins>
+<ins> How long would you anticipate an 'Employee' to complete this task? (in hours) </ins>
 <br>
 3
 
