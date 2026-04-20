@@ -3,7 +3,7 @@
 # Fists of Fury | Project Touchstone #
 [Tutorial: Create a Beat'em Up game in Godot!](https://youtube.com/playlist?list=PLNNbuBNHHbNGtZjygmnJ2fBvp6JmDNkAm&si=qjgzBgI2tMU1-evd) by [The GameDev Tavern](https://gadgaming.itch.io/) ([YouTube](https://www.youtube.com/@GameDevTavern))
 
-This tutorial video is a structured, follow-along project that guides viewers through building a 2D player controller and core combat system, demonstrating how movement, input handling, attack mechanics, enemy interactions, and animations are organized and implemented in the Godot Engine to create a functional "beat 'em up" game experience. It also served as the foundation for completing a structured implementation task on Feather, with the project integrated into the broader development workflow supporting the Handshake AI Project Touchstone initiative.
+This multipart tutorial is a structured, follow-along project that guides viewers through building a 2D player controller and core combat system, demonstrating how movement, input handling, attack mechanics, enemy interactions, and animations are organized and implemented in the Godot Engine to create a functional "beat 'em up" game experience. It also served as the foundation for completing a structured implementation task on Feather, with the project integrated into the broader development workflow supporting the Handshake AI Project Touchstone initiative.
 
 # Assets #
 [BeatEmUp Assets](https://drive.google.com/file/d/1_9-KLpjMYAJK3ND6mXnnAFaaJ586n939/view?usp=sharing) by [The GameDev Tavern](https://nicolasbize.com/blog/) ([GitHub](https://github.com/nicolasbize))
