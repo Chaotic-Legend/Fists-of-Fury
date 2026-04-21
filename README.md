@@ -46,7 +46,7 @@ Task from scratch
 
 <ins> How long would you anticipate an 'Employee' to complete this task? (in hours) </ins>
 <br>
-3
+4
 
 ### **Starting state** ###
 Please describe and include below any information about the starting state of this project:
@@ -120,4 +120,4 @@ This task is a realistic and representative assignment for a junior-level develo
 - Run the main scene, attack an enemy, and observe that the enemy takes damage, shows a hurt response, and gets knocked down.
 - The prompt requires enemy reactions to player attacks, including damage handling, visual feedback, and knockdown behavior.
 <br>
-Godot - https://feather.openai.com/tasks/8e817669-0fe2-483f-90da-e5461d5b9717/stage/prompt_creation - Awaiting response.
+Godot - https://feather.openai.com/tasks/8e817669-0fe2-483f-90da-e5461d5b9717/stage/prompt_creation - Finished prompt creation.
