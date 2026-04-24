@@ -165,7 +165,7 @@ Reminder on the difference between the starting state and the reference files:
 
 <ins> Starting state description </ins>
 <br>
-
+The starting state file for this task consists of a partially developed 2D Godot project that provides a foundational framework for a "beat 'em up" gameplay system for the Employee to import. The project includes preconfigured player and enemy scenes with assigned sprite assets, collision bodies, basic animation setups, and a main scene with an initial background layout. It also contains destructible object assets, such as barrels, along with organized folders for scripts, scenes, and visual resources, and predefined input mappings for player controls. The Employee is responsible for extending the existing scenes by refining player movement, implementing new combat mechanics, and improving interactions between the player, enemies, and destructible objects. This project includes working from the starting state files derived from the prior task for initial development, updating scripts, adding new collision bodies, and enhancing animation transitions to ensure smooth gameplay. The Employee must also integrate the weapon assets to support expanded combat mechanics in the "beat 'em up" game, expand the level layout using the provided environment assets, and ensure all gameplay systems function cohesively within the current project structure.
 
 ### **Overall context** ###
 Finally, include context on this task and why it is realistic and representative of real-life work:
