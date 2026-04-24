@@ -140,7 +140,20 @@ Reminder on the difference between reference and starting state files:
 
 <ins> Task prompt (ask the Employee) </ins>
 <br>
+We are developing a combat update for our 2D pixel-art "beat 'em up" game prototype, focusing on extending the core gameplay systems with advanced enemy behavior, weapon interactions, and combo-driven combat mechanics. Your task is to implement and refine gameplay features that build upon the existing movement and combat framework, ensuring that all systems remain responsive, visually clear, and consistent within a side-scrolling environment. The implementation should prioritize precise input handling, reliable combat interactions, more detectable collision bodies, and stable physics-based responses. The player and enemy systems should interact seamlessly with weapons, environmental boundaries, and collision systems while maintaining consistent performance and readability during combat. Enemy behavior must demonstrate both offensive and defensive behaviors, while the player character must be able to engage in varied attack patterns, weapon usage, and movement-based combat actions. All interactions must produce clear visual feedback, including knockback, collision responses, and state changes such as defeat or item loss. The updated system should support the following capabilities:
 
+- Enemy characters can execute punch attacks that deal damage.
+- The player character can damage enemies until they are defeated.
+- The player can execute various attacks when repeatedly attacking.
+- The player can launch enemies after completing an attack combo.
+- Enemies collide with walls by bouncing back after being launched.
+- Throwable knife items are placed throughout the level to utilize.
+- The characters can pick up a knife and perform a knife attack.
+- The player character can hold onto the knife during a jump kick.
+- The characters can lose or drop the knife after taking damage.
+- A new goon enemy sprite can move away from the player character.
+
+Movement and physics behavior must remain consistent, with gravity producing natural downward motion and collisions behaving predictably against level geometry. The side-scrolling environment should include navigable ground areas, obstacles, and space for combat encounters that support both close-range and ranged interactions. The camera system must maintain player focus while ensuring stable framing of combat scenarios and preventing disorientation during knockback sequences. The player character must remain correctly oriented during movement and attacks, with readable animations that clearly show each behavior. Enemy behaviors should be distinguishable and responsive, supporting both aggressive pursuit and evasive movement patterns depending on state. Overall, the updated system should demonstrate tight responsiveness, cohesive combat logic, and extensibility for future enhancements to this ongoing "beat 'em up" game.
 
 <ins> Which of the following best fits this task? </ins>
 <br>
@@ -214,8 +227,8 @@ This task directly continues from the previous assignment, extending the existin
 - Run the main scene, equip a knife to a character, then allow the character to take damage and observe the knife getting removed.
 - The task prompt requires implementing weapon loss behavior, causing characters to lose a knife when taking damage.
 
-10. A goon enemy sprite can move away from the player character.
+10. A new goon enemy sprite can move away from the player character.
 - Run the main scene and observe that the new enemy type is actively moving a distance away from the player character.
 - The task prompt requires a distinct enemy behavior pattern that includes moving away to challenge the player character.
 <br>
-Godot - https://feather.openai.com/tasks/e9050755-8a6d-4100-9905-6620b5323ef4/stage/prompt_creation - Work on prompt creation.
+Godot - https://feather.openai.com/tasks/e9050755-8a6d-4100-9905-6620b5323ef4/stage/prompt_creation - Awaitng response.
