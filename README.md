@@ -178,6 +178,44 @@ This task directly continues from the previous assignment, extending the existin
 
 <ins> Rubric Items </ins>
 <br>
+1. Enemy characters can execute punch attacks that damage the player.
+- Run the main scene and observe enemy characters initiating punch animations when close to the player character to deal damage.
+- The task prompt requires enemy characters to perform punch-based attacks that successfully register damage against the player.
 
+2. The player character can damage enemies until they are defeated.
+- Run the main scene and repeatedly attack enemies to confirm that they take damage, get knocked down, and slowly disappear.
+- The task prompt requires the player character to execute attacks that reduce enemy health, resulting in knockback and elimination.
+
+3. The player can execute various attacks when repeatedly attacking.
+- Run the main scene, then press the C key repeatedly in sequence to trigger and observe a chained attack for expanded combat.
+- The task prompt requires a combo-based input system for chaining multiple attacks when repeatedly pressing the attack input.
+
+4. The player can launch enemies after completing an attack combo.
+- Run the main scene, perform a full attack combo on an enemy, and observe the enemy getting launched in a directional force.
+- The task prompt requires combo completion to trigger a knockback effect that propels enemies into environmental boundaries.
+
+5. Enemies react to wall collisions by bouncing back after being launched.
+- Run the main scene, launch enemies into walls, and observe collision response with a bounce or rebound effect upon impact.
+- The task prompt requires physical interaction between launched enemies and wall collision surfaces with visible reaction behavior.
+
+6. Throwable knife items are placed throughout the level to interact with.
+- Run the main scene and locate knife objects within the environment to confirm they are present, clearly visible, and interactable.
+- The task prompt requires throwable knife assets that are fully integrated into the combat system for the characters to use.
+
+7. The player and enemies can pick up a knife and perform a knife attack.
+- Run the main scene, pick up a knife with the C key, then press the C key again to confirm the player character performs a knife attack.
+- The task prompt requires implementing knife pickup functionality, allowing characters to equip a knife and perform weapon attacks.
+
+8. The player character holds the knife while executing a jump kick attack.
+- Run the main scene, pick up a knife, then perform a jump kick to verify that the player character holds the weapon during the action.
+- The task prompt requires weapon persistence during airborne attack states without losing the equipped weapon during gameplay.
+
+9. The player character and enemies lose the knife when taking damage.
+- Run the main scene, equip a knife to a character, then allow the character to take damage and observe the knife getting removed.
+- The task prompt requires implementing weapon loss behavior, causing characters to lose a knife when taking damage.
+
+10. A goon enemy sprite can move away from the player character.
+- Run the main scene and observe that the new enemy type is actively moving a distance away from the player character.
+- The task prompt requires a distinct enemy behavior pattern that includes moving away to challenge the player character.
 <br>
 Godot - https://feather.openai.com/tasks/e9050755-8a6d-4100-9905-6620b5323ef4/stage/prompt_creation - Work on prompt creation.
