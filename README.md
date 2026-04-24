@@ -192,7 +192,7 @@ This task directly continues from the previous assignment, extending the existin
 <ins> Rubric Items </ins>
 <br>
 1. Enemy characters can execute punch attacks that damage the player.
-- Run the main scene and observe enemy characters initiating punch animations when close to the player character to deal damage.
+- Run the main scene and observe enemy characters initiating attack animations when close to the player character to deal damage.
 - The task prompt requires enemy characters to perform punch-based attacks that successfully register damage against the player.
 
 2. The player character can damage enemies until they are defeated.
