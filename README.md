@@ -1,4 +1,4 @@
-[![Static Badge](https://img.shields.io/badge/Godot%20Engine-4.3-blue?style=plastic&logo=godotengine)](https://godotengine.org/) ![GitHub top language](https://img.shields.io/github/languages/top/Chaotic-Legend/2D-Movement-Tutorial?logo=godotengine)
+[![Static Badge](https://img.shields.io/badge/Godot%20Engine-4.6.2-blue?style=plastic&logo=godotengine)](https://godotengine.org/) ![GitHub top language](https://img.shields.io/github/languages/top/Chaotic-Legend/Fists-of-Fury?logo=godotengine)
 
 # Fists of Fury | Project Touchstone #
 [Tutorial: Create a Beat'em Up game in Godot!](https://youtube.com/playlist?list=PLNNbuBNHHbNGtZjygmnJ2fBvp6JmDNkAm&si=qjgzBgI2tMU1-evd) by [The GameDev Tavern](https://gadgaming.itch.io/) ([YouTube](https://www.youtube.com/@GameDevTavern))
